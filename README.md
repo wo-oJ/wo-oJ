@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 안녕하세요 wooJ 입니다. 나이는 초6 입니다.
+### 요즘 개발중인건 딱히 없습니다.
+### 파이썬이랑 vue , js 배우고 있습니다.
 <!--
 **wo-oJ/wo-oJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
