@@ -1,5 +1,2 @@
-# Stacks
-
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg)  
-
-Here you can describe the stacks used in your project.
+## Hi there👋
+### 초6 프로그래머 입니다.
